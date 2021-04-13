@@ -1,0 +1,27 @@
+.ban_image{
+    float: right;
+}
+.ban_desc{
+    margin-top: 30vh;
+    margin-left: 5%;
+    float: left;
+}
+.clear_div{
+    clear: both;
+  
+
+}
+.card{
+    box-shadow: rgb(180, 68, 68) 0px 3px 8px;
+}
+.foot{
+    padding: 10px;
+    background-color: #DC3545;
+    text-align: center;
+    color: white;
+    margin-bottom: 0;
+}
+
+@media only screen and (min-width: 1024px) {
+    
+}
